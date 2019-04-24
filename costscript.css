@@ -1,49 +1,65 @@
-/* Global radio button */ 
 input[type="radio"]:checked + label.image-van-s { 
-  background-color: #fff;
- border-color: #0089cf;
- border-width: 2px;
- }
+    background-color: #fff;
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
+}
 input[type="radio"]:checked + label.image-van-m { 
- background-color: #fff;
- border-color: #0089cf;
- border-width: 2px;
- }
+    background-color: #fff;
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
+}
 
 input[type="radio"]:checked + label.image-van-l { 
-  background-color: #fff;
-  border-color: #0089cf; 
-  border-width: 2px;
+    background-color: #fff;
+    border-color: #0089cf; 
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
 
 input[type="radio"]:checked + label.helper-1 { 
-  background-color: #fff; 
-  border-color: #0089cf;
-  border-width: 2px;
-}
-input[type="radio"]:checked + label.helper-2 { 
-  background-color: #fff; 
+    background-color: #fff; 
     border-color: #0089cf;
     border-width: 2px;
-
+    margin-top: -1px;
+    margin-bottom:-1px;
+}
+input[type="radio"]:checked + label.helper-2 { 
+    background-color: #fff; 
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
 input[type="radio"]:checked + label.helper-3 { 
-  background-color: #fff; 
-  border-color: #0089cf;
-  border-width: 2px;
+    background-color: #fff; 
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
 input[type="radio"]:checked + label.hour-1 { 
-  background-color: #fff; 
-  border-color: #0089cf;
-  border-width: 2px;
+    background-color: #fff; 
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
 input[type="radio"]:checked + label.hour-2 { 
-  background-color: #fff; 
-  border-color: #0089cf;
-  border-width: 2px;
+    background-color: #fff; 
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
 input[type="radio"]:checked + label.hour-3 { 
-  background-color: #fff;
-  border-color: #0089cf;
-  border-width: 2px;
+    background-color: #fff;
+    border-color: #0089cf;
+    border-width: 2px;
+    margin-top: -1px;
+    margin-bottom:-1px;
 }
