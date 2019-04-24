@@ -1,7 +1,7 @@
 jQuery(function() {
-    var vanSize,
-        helperCount,
-        hourCount,
+    var vanSize = 0,
+        helperCount = 0,
+        hourCount = 0,
         costs,
         newCosts;
     function recount() {
