@@ -124,7 +124,7 @@ jQuery(function() {
         recount();
     });
     jQuery("input[name='helper']").change(function() {
-        vanSize = jQuery("input[name='helper']:checked").val();
+        vanSize = jQuery("input[name='Van']:checked").val();
         helperCount = jQuery("input[name='helper']:checked").val();
         hourCount = jQuery("input[name='hour']:checked").val();
 
@@ -238,7 +238,7 @@ jQuery(function() {
         recount();
     });
     jQuery("input[name='hour']").change(function() {
-        vanSize = jQuery("input[name='hour']:checked").val();
+        vanSize = jQuery("input[name='Van']:checked").val();
         helperCount = jQuery("input[name='helper']:checked").val();
         hourCount = jQuery("input[name='hour']:checked").val();
 
