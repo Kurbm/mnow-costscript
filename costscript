@@ -344,11 +344,11 @@ jQuery(function() {
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 3) {
             newCosts= 229,00;
-            $(".price").show();
+            $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 3) {
             newCosts= 289,00;
-            $(".price").show();
+            $(".hidden-price").show();
         }
         recount();
     });
