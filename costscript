@@ -14,111 +14,111 @@ jQuery(function() {
         helperCount = jQuery("input[name='helper']:checked").val();
         hourCount = jQuery("input[name='hour']:checked").val();
         if (vanSize == 1 && helperCount == 1 && hourCount == 1) {
-            newCosts= 29,00;
+            newCosts= 34.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 1) {
-            newCosts= 69,00;
+            newCosts= 49.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 64.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 2) {
-            newCosts= 49,00;
+            newCosts= 65.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 2) {
-            newCosts= 119,00;
+            newCosts= 94.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 122.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 3) {
-            newCosts= 79,00;
+            newCosts= 126.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 3) {
-            newCosts= 199,00;
+            newCosts= 184.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 239.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 1) {
-            newCosts= 39,00;
+            newCosts= 36.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 1) {
-            newCosts= 79,00;
+            newCosts= 51.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 1) {
-            newCosts= 99,00;
+            newCosts= 66.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 2) {
-            newCosts= 69,00;
+            newCosts= 69.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 2) {
-            newCosts= 129,00;
+            newCosts= 96.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 2) {
-            newCosts= 149,00;
+            newCosts= 125.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 3) {
-            newCosts= 99,00;
+            newCosts= 132.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 3) {
-            newCosts= 219,00;
+            newCosts= 189.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 3) {
-            newCosts= 279,00;
+            newCosts= 245.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 1) {
-            newCosts= 49,00;
+            newCosts= 38.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 52.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 1) {
-            newCosts= 119,00;
+            newCosts= 68.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 2) {
-            newCosts= 79,00;
+            newCosts= 72.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 99.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 2) {
-            newCosts= 159,00;
+            newCosts= 129.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 3) {
-            newCosts= 119,00;
+            newCosts= 139.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 196.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 3) {
-            newCosts= 289,00;
+            newCosts= 254.99;
             $(".hidden-price").show();
         }
         recount();
@@ -129,110 +129,110 @@ jQuery(function() {
         hourCount = jQuery("input[name='hour']:checked").val();
 
         if (vanSize == 1 && helperCount == 1 && hourCount == 1) {
-            newCosts= 29,00;
+            newCosts= 34.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 1) {
-            newCosts= 69,00;
+            newCosts= 49.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 64.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 2) {
-            newCosts= 49,00;
+            newCosts= 65.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 2) {
-            newCosts= 119,00;
+            newCosts= 94.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 122.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 3) {
-            newCosts= 79,00;
+            newCosts= 126.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 3) {
-            newCosts= 199,00;
+            newCosts= 184.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 239.99;
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 1) {
-            newCosts= 39,00;
+            newCosts= 36.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 1) {
-            newCosts= 79,00;
+            newCosts= 51.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 1) {
-            newCosts= 99,00;
+            newCosts= 66.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 2) {
-            newCosts= 69,00;
+            newCosts= 69.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 2) {
-            newCosts= 129,00;
+            newCosts= 96.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 2) {
-            newCosts= 149,00;
+            newCosts= 125.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 3) {
-            newCosts= 99,00;
+            newCosts= 132.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 3) {
-            newCosts= 219,00;
+            newCosts= 189.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 3) {
-            newCosts= 279,00;
+            newCosts= 245.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 1) {
-            newCosts= 49,00;
+            newCosts= 38.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 52.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 1) {
-            newCosts= 119,00;
+            newCosts= 68.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 2) {
-            newCosts= 79,00;
+            newCosts= 72.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 99.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 2) {
-            newCosts= 159,00;
+            newCosts= 129.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 3) {
-            newCosts= 119,00;
+            newCosts= 139.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 196.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 3) {
-            newCosts= 289,00;
+            newCosts= 254.99;
             $(".hidden-price").show();
         }
         recount();
@@ -243,111 +243,111 @@ jQuery(function() {
         hourCount = jQuery("input[name='hour']:checked").val();
 
         if (vanSize == 1 && helperCount == 1 && hourCount == 1) {
-            newCosts= 29,00;
+            newCosts= 34.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 1) {
-            newCosts= 69,00;
+            newCosts= 49.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 64.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 2) {
-            newCosts= 49,00;
+            newCosts= 65.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 2) {
-            newCosts= 119,00;
+            newCosts= 94.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 122.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 1 && hourCount == 3) {
-            newCosts= 79,00;
+            newCosts= 126.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 2 && hourCount == 3) {
-            newCosts= 199,00;
+            newCosts= 184.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 1 && helperCount == 3 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 239.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 1) {
-            newCosts= 39,00;
+            newCosts= 36.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 1) {
-            newCosts= 79,00;
+            newCosts= 51.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 1) {
-            newCosts= 99,00;
+            newCosts= 66.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 2) {
-            newCosts= 69,00;
+            newCosts= 69.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 2) {
-            newCosts= 129,00;
+            newCosts= 96.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 2) {
-            newCosts= 149,00;
+            newCosts= 125.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 1 && hourCount == 3) {
-            newCosts= 99,00;
+            newCosts= 132.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 2 && hourCount == 3) {
-            newCosts= 219,00;
+            newCosts= 189.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 2 && helperCount == 3 && hourCount == 3) {
-            newCosts= 279,00;
+            newCosts= 245.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 1) {
-            newCosts= 49,00;
+            newCosts= 38.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 1) {
-            newCosts= 89,00;
+            newCosts= 52.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 1) {
-            newCosts= 119,00;
+            newCosts= 68.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 2) {
-            newCosts= 79,00;
+            newCosts= 72.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 2) {
-            newCosts= 139,00;
+            newCosts= 99.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 2) {
-            newCosts= 159,00;
+            newCosts= 129.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 1 && hourCount == 3) {
-            newCosts= 119,00;
+            newCosts= 139.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 2 && hourCount == 3) {
-            newCosts= 229,00;
+            newCosts= 196.99;
             $(".hidden-price").show();
         }
         else if (vanSize == 3 && helperCount == 3 && hourCount == 3) {
-            newCosts= 289,00;
+            newCosts= 254.99;
             $(".hidden-price").show();
         }
         recount();
