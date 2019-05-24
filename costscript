@@ -6,8 +6,8 @@ jQuery(function() {
         newCosts;
     function recount() {
         costs = newCosts;
-        finalCosts=  costs.replace(/\./g, ',');
-        document.getElementById('pricePlaceholder').innerHTML=finalCosts;
+        finalCosts= costs;
+        document.getElementById('pricePlaceholder').innerHTML=finalCosts.replace(/\./g, ',');
     }
     recount();
     jQuery("input[name='Van']").change(function() {
