@@ -6,7 +6,7 @@ jQuery(function() {
         newCosts;
     function recount() {
         costs = newCosts;
-        finalCosts= costs;
+        finalCosts= costs.replace(/./g, ',');
         document.getElementById('pricePlaceholder').innerHTML=finalCosts;
     }
     recount();
